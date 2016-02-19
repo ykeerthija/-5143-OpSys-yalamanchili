@@ -5,7 +5,9 @@ Date: 19 feb 2016
 1.What are three objectives of an OS design?
 
 Convenience:The main purpose of an operating system is to provide a convenient interface for users of a computer. The operating system makes use of a computer's hardware and provides services to computer users. The operating system provides some of its services, such as the computer mouse and keyboard, directly to computer users. It provides other services through application programs. 
+
 Efficiency:A computer's operating system acts to provide interfaces for computer users to the computer hardware. It should be able to manage the hardware so that the hardware does its work in an efficient manner and uses resources in the best way.
+
 Maintainability:Another objective for the design of an operating system is that it should be easy to maintain and upgrade. It should be easy to upgrade an operating system when new computer hardware comes to the market. And it should also be possible to expand the system to include more services to meet user needs. 
 
 2.What is the kernel of an OS?
@@ -27,10 +29,15 @@ Also known as the process state, the execution context is the internal data the 
 6.List and briefly explain five storage management responsibilities of a typical OS.
 
 Storage management responsibilities of OS are as follows.
+
 Process isolation: This is the prevention of data and instruction from interfering with each other process isolation helps this happen.
+
 Automatic allocation and management: This is the process whereby allocation should be transported to the programmer.
+
 Support of modular programming: Supports the program to be able to define programs modules and to create, destroy and alter the size of modules dynamically.
+
 Protection and access control: This is the process of sharing memory this is desirable when sharing is needed by a particular application it also threatens the integrity of programs.
+
 Long term storage: Is a process whereby memory is stored for a long period of time even when the computer is switch off it is stored in the RAM.
 
 7.Explain the distinction between a real address and a virtual address.
