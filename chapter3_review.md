@@ -32,9 +32,9 @@ A trap is a special kind of interrupt which is referred to as software interrupt
 6.Give three examples of an interrupt.
 
 The three examples of an interrupt are as follows.
-Internal interrupt
-External interrupt
-Software interrupt
+a.Internal interrupt
+b. interrupt
+c.Software interrupt
 
 7.What is the difference between a mode switch and a process switch?
 
